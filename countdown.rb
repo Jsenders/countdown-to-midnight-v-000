@@ -6,5 +6,6 @@ n = 1
     puts "#{n} SECOND(S)!"
     number -= 1
   end
+  return "HAPPY NEW YEAR!"
 end
-"HAPPY NEW YEAR!"
+
